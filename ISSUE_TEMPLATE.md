@@ -1,5 +1,5 @@
 <!-- Il titolo qui sopra deve essere ragionevolmente rappresentativo e non ambiguo -->
-<!-- Ricordati di aggiungere le label corrette a questa issue e di cancellare le parti di template che non ti servono -->
+<!-- Ricordati di aggiungere le label corrette a questa issue, di aggiungere i milestone per il #LastMonthOnPCW se lo ritieni degno di nota e di cancellare le parti di template che non ti servono -->
 
 ## Descrizione
 <!-- Scrivi in modo più dettagliato e discorsivo di cosa si tratta -->
